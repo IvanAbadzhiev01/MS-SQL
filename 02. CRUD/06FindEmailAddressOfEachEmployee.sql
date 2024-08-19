@@ -1,0 +1,1 @@
+SELECT CONCAT(FirstName, '.', LastName, '@softuni.bg') [Full Email Address] FROM Employees
